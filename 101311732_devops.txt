@@ -1,0 +1,3 @@
+The procedures, standards, and best practises that a DevOps engineer brings to the workplace in order to boost productivity are covered in this course.
+Analyze and assess the many developer operation implementations that are available, then use an industry-standard toolset to carry out practical work.
+By following the fundamental duties of DevOps, solve complicated business problems.
