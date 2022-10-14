@@ -1,1 +1,3 @@
-# YigitEmik-COMP3104-Group34_Assignment1
+Yigit Ahmed Emik
+101311732
+Group34
