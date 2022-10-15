@@ -1,1 +1,2 @@
 The DevOps class teaches us automation of configuration management, IT service and inter-team collaboration.
+It enables faster development of new products.
