@@ -1,0 +1,1 @@
+The DevOps class teaches us automation of configuration management, IT service and inter-team collaboration.
