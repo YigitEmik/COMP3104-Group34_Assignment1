@@ -1,2 +1,0 @@
-DevOps is software development and operations approach.
-It is easier maintenance of existing deployments.
