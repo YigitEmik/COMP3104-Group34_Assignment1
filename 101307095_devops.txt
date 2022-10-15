@@ -1,1 +1,2 @@
 
+DevOps engineers reduce that complexity, closing the gap between actions needed to quickly change an application, and the tasks that maintain its reliability.
