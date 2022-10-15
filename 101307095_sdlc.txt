@@ -1,1 +1,2 @@
 
+Software development and operations are referred to as DevOps.
