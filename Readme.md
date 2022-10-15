@@ -1,0 +1,2 @@
+GROUP 34
+Alper Ekici - 101212904
